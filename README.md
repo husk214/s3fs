@@ -1,6 +1,6 @@
 #Simultaneous Safe Screening of Features and Samples in Doubly Sparse Modeling (ICML'16)
 
-<img src="fig/sss_illust2.pdf" width="920px">
+<img src="fig/sss_illust2.png" width="920px">
 
 
 ##Abstract
@@ -9,7 +9,7 @@ The problem of learning a sparse model is conceptually interpreted as the proces
 
 ##Result
 
-<img src="fig/0205_rate2_real-sim.pdf" width="920px">
+<img src="fig/0205_rate2_real-sim.png" width="920px">
 
 
 ##Enviromental Requirement
